@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("This is New Post");
+        System.out.println("For reset");
     }
 }
+	
